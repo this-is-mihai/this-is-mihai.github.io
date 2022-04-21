@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# AZ-104 - Microsoft Azure Administrator
+- skill: AZ-104T00 - Microsoft Azure Administrator
+  description: Learned how to manage Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor solutions.
+  
+# AZ-204 - Developing Solutions for Microsoft Azure
+- skill: AZ-204 - Developing Solutions for Microsoft Azure
+  description: Learned how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure solutions by using KeyVault and Managed Identities. Also learned how to connect to and consume Azure services and third-party services, and include events and message-based models.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# AI-102 - Designing and Implementing a Microsoft Azure AI Solution
+- skill: AI-102 - Designing and Implementing a Microsoft Azure AI Solution
+  description: AI-102 Designing and Implementing an Azure AI Solution is intended for software developers wanting to build AI infused applications that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# 10961C - Automating Administration With Windows PowerShell
+- skill: 10961C - Automating Administration With Windows PowerShell
+  description: Automating Administration with PowerShell
+
+# 10962C - Advanced Automated Administration with Windows PowerShell Scripting
+- skill: 10962C - Advanced Automated Administration with Windows PowerShell Scripting
+  description: Advanced Automated Administration with Windows PowerShell Scripting

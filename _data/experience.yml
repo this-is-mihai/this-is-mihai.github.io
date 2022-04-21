@@ -1,19 +1,32 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# IT Operation Engineer
+- company: Continental Automotive Systems (Sibiu, Romania)
+  position: IT Operation Engineer
+  duration: Feb, 2019 &mdash; Present
+  summary: As a IT Operation Engineer at Continental Automotive Systems I was involved in different topics from automating deployment/enrolment of new servers in the production area with Powershell, to automating daily repetitive tasks with UIPath / PowerAutomate saving hours of work weekly, to developing apps using different programming languages (C#, Javascript, Python), to developing production ready software. Some of the key highlights are a parking web app ( http://parking.contisibiu.com ), a web app (that collected info from several tools and databases) acting as a self-service tool (for over 1400 computers and over 500 users) where our internal customers could maintain computers in the production area, thus saving almost 50% of time consuming tasks of the IT Team.
+  
+# Fullstack Developer
+- company: KJ Web Office (Sibiu, Romania)
+  position: Fullstack Developer
+  duration:  Apr, 2017 &mdash; Feb, 2019
+  summary: My duties at KJ Web Office included developing, maintaining and updating different web applications for their clients portfolio. My passion and understanding of visual design, programing languages and databases, offered me the opportunity to work for this small company and serve as their primary web developer. As such, I was responsible for developing websites and mobile apps using technologies such as Angular, MySQL, SqlLITE, Node.js, Laravel and Ionic Framework.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
+# Senior Photo Editor
+- company: Fashion Days Intenational Group (Bucharest, Romania)
+  position: Senior Photo Editor
+  duration:   May, 2012  &mdash; Apr, 2017
+  summary: The main responsibility is ensuring that the quality of the visual content on the website is at the best possible level and according to the company standards. 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Graphic Designer
+- company: Flanco (Bucharest, Romania)
+  position: Graphic Designer
+  duration:   Apr, 2011  &mdash; May, 2012
+  summary: Designed and implemented various offline and online advertising projects with banners, newsletters and landing pages. Also designed print and branding materials for new store openings
+
+# Photo Editor
+- company: Ringier Group (Bucharest, Romania)
+  position: Photo Editor
+  duration:   May, 2008  &mdash; Feb, 2009
+  summary: Took part in creating, building and managing stock photography archive of entertainment news and sports. Drafted submission guidelines for the daily newspaper “Compact”.
+

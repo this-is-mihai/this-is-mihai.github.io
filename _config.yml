@@ -1,6 +1,6 @@
 # Site settings
-title: "Mihai Grigore Resume"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Mihai Grigore - Resume"
+description: "Mihai Grigore - IT Operations Engineer - Resume 2022"
 
 # Build settings
 markdown: kramdown
@@ -46,7 +46,7 @@ resume_section_skills:          true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/this-is-mihai"
-  resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/this-is-mihai"

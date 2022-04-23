@@ -23,7 +23,7 @@ resume_contact_address:         "Sibiu, Romania"
 resume_header_contact_info:     "Sibiu, Romania • +40723.452.887 • this.is.mihai@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>IT Operation Engineer with 3+ years of hands-on experience supporting, automating, and optimizing developing critical applications in the automotive production area, leveraging different scripting languages (PowerShell, Bash) and different programming languages (C#, JavaScript, Python). Looking to make a transition to a DevOps position.</p>"
+resume_header_intro: "<p>IT Operations Engineer with 3+ years of hands-on experience supporting, automating, optimizing and developing critical applications in the automotive production area, leveraging different scripting languages (PowerShell, Bash) and different programming languages (C#, JavaScript, Python). Looking to make a transition to a DevOps position.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

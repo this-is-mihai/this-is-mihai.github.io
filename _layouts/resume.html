@@ -46,6 +46,11 @@
         {% else %}
         {% endif %}
 
+        {% if site.resume_download == 'yes' %}
+        <a href="_data/Mihai_Grigore_Resume.pdf"  class="contact-button no-print" download>Download Resume</a>
+        {% endif %}
+
+
       </header>
 
       {% if site.resume_section_experience %}

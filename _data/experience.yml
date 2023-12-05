@@ -1,32 +1,44 @@
 # Jobs
+
+# Cloud Architect
+- company: Regnology (Sibiu, Romania)
+  position: Cloud Architect
+  duration: Jun, 2022 &mdash; Present
+  summary: As a Cloud Architect at Regnology, I took a leadership role in orchestrating the migration from on-premises to the cloud. My initial responsibilities involved designing and preparing the entire cloud infrastructure for the seamless transition, a task that encompassed migrating approximately 130 on-premises servers and arround 50 servers from diffrent cloud providers (OCI, AWS and Azure) to Google Cloud. <br />Taking charge of the cloud evolution, I introduced efficiency and agility by automating the deployment of new resources using Terraform, ensuring a swift and standardized approach to scaling our infrastructure. In tandem, I've maintained and updated the cloud infrastructure to align with the evolving needs of our developers and clients, ensuring optimal performance and resource utilization. <br />In this dynamic role, I extensively utilized a diverse technology stack, including Terraform, GCP, Azure, Okta, Jenkins, Python, Bash and Microsoft Power Platform, PowerBI. This holistic approach has empowered me to navigate the intricacies of multi-cloud environments, implement robust identity and access management solutions, streamline CI/CD pipelines for enhanced development workflows, create automation scripts and solutions, and provide reports for management and users. <br />In my continuous pursuit of excellence, I actively try to stay up to date to the latest technologies and trends. This commitment to innovation has allowed me to successfully implement cutting-edge solutions into our day-to-day business workflow, contributing to Regnology's technological prowess and future-readiness.
+  url: https://www.regnology.net/
+
 # IT Operation Engineer
 - company: Continental Automotive Systems (Sibiu, Romania)
   position: IT Operations Engineer
-  duration: Feb, 2019 &mdash; Present
+  duration: Feb, 2019 &mdash; Jun, 2022
   summary: As an IT Operations Engineer at Continental Automotive Systems I was involved in different topics from automating deployment/enrolment of new servers in the production area with Powershell, to automating daily repetitive tasks with UIPath / PowerAutomate saving hours of work weekly, to developing apps using different programming languages (C#, Javascript, Python), to developing production ready software. Some of the key highlights are a parking web app (<a href="http://parking.contisibiu.com" target="_blank">http://parking.contisibiu.com</a>), a web app (that collected info from several tools and databases) acting as a self-service tool (for over 1400 computers and over 500 users) where our internal customers could maintain computers in the production area, thus saving almost 50% of time consuming tasks of the IT Team.
-  
+  url: https://www.continental.com/
+
 # Fullstack Developer
 - company: KJ Web Office (Sibiu, Romania)
   position: Fullstack Developer
   duration:  Apr, 2017 &mdash; Feb, 2019
   summary: My duties at KJ Web Office included developing, maintaining and updating different web applications for their clients portfolio. My passion and understanding of visual design, programing languages and databases, offered me the opportunity to work for this small company and serve as their primary web developer. As such, I was responsible for developing websites and mobile apps using technologies such as Angular, MySQL, SqlLITE, Node.js, Laravel and Ionic Framework.
-
+  url: https://www.kjweboffice.eu/
 
 # Senior Photo Editor
 - company: Fashion Days Intenational Group (Bucharest, Romania)
   position: Senior Photo Editor
   duration:   May, 2012  &mdash; Apr, 2017
   summary: The main responsibility is ensuring that the quality of the visual content on the website is at the best possible level and according to the company standards. 
+  url: https://www.fashiondays.ro/
+
 
 # Graphic Designer
 - company: Flanco (Bucharest, Romania)
   position: Graphic Designer
   duration:   Apr, 2011  &mdash; May, 2012
   summary: Designed and implemented various offline and online advertising projects with banners, newsletters and landing pages. Also designed print and branding materials for new store openings
+  url: https://www.flanco.ro/
 
 # Photo Editor
 - company: Ringier Group (Bucharest, Romania)
   position: Photo Editor
   duration:   May, 2008  &mdash; Feb, 2009
   summary: Took part in creating, building and managing stock photography archive of entertainment news and sports. Drafted submission guidelines for the daily newspaper “Compact”.
-
+  url: https://www.ringier.com/

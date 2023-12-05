@@ -1,6 +1,6 @@
 # Site settings
-title: "Mihai Grigore - Resume"
-description: "Mihai Grigore - IT Operations Engineer - Resume 2022"
+title: "Mihai Grigore - Cloud Architect - Resume"
+description: "Mihai Grigore - Cloud Architect - Resume 2023"
 
 # Build settings
 markdown: kramdown
@@ -11,20 +11,20 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mihai Grigore"
-resume_title:                   "IT Operations Engineer"
+resume_title:                   "Cloud Architect"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "this.is.mihai@gmail.com"
+resume_contact_email:           "hello@motzu.ro"
 resume_download:                "yes"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+40723.452.887"
 resume_contact_address:         "Sibiu, Romania"
 
-resume_header_contact_info:     "Sibiu, Romania • +40723.452.887 • this.is.mihai@gmail.com"
+resume_header_contact_info:     "Sibiu, Romania • +40723.452.887 • hello@motzu.ro"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>IT Operations Engineer with 3+ years of hands-on experience supporting, automating, optimizing and developing critical applications in the automotive production area, leveraging different scripting languages (PowerShell, Bash) and different programming languages (C#, JavaScript, Python). Looking to make a transition to a DevOps position.</p>"
+resume_header_intro: "<p>Hello, I'm Mihai and I'm a Cloud Architect. I bring expertise in orchestrating strategic transitions from on-premise infrastructure to the cloud. Specializing in crafting robust cloud architectures, I contribute to enhancing organizational efficiency, scalability, and security. My role involves leveraging cutting-edge technologies like Terraform, GCP, Azure, and more to architect solutions that align with any business objectives. With a commitment to innovation and backed by certifications, including Professional Cloud Architect, I empower companies to embrace the full potential of cloud technology for a future-ready and competitive edge.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

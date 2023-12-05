@@ -1,8 +1,30 @@
 # Skills
+
+# GCP - Summary
+- skill: GCP - Summary
+  url: https://google.accredible.com/profile/mihaigrigore730968/wallet
+  description: From my first cert, Cloud Engineer, my certification journey has been marked by continuous learning, skill development, and a commitment to mastering the intricacies of cloud architecture. Beginning as an IT Operations Engineer, I embarked on this transformative path with hands-on experience supporting critical applications and a vision to transition to a DevOps role.<br /> The progression started with earning the Cloud Digital Leader certification from Google, where I deepened my understanding of cloud strategy, economics, and migration. Armed with this foundation, I transitioned to the role of an Associate Cloud Engineer, demonstrating proficiency in deploying, monitoring, and maintaining projects on Google Cloud Platform (GCP).<br /> Building upon these foundations, I pursued and attained the coveted Professional Cloud Architect certification. This pinnacle achievement underscores my ability to architect complex, scalable, and secure cloud solutions that align with organizational goals. With expertise in designing robust cloud-native systems, I've proven adept at translating business needs into efficient and innovative cloud architectures.<br /> <br /> This journey reflects a dedication to excellence, a passion for cloud innovation, and a continuous pursuit of becoming a proficient and strategic leader in the dynamic field of cloud computing.
+# GCP - Prof Cloud Architect
+- skill: GCP - Professional Cloud Architect
+  url: https://www.credential.net/89a66fb3-3784-4405-80b0-7a04ac6aa173
+  description: Learned how to manage Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor solutions.
+
+# GCP - Associate Cloud Engineer
+- skill: GCP - Associate Cloud Engineer
+  url: https://www.credential.net/a986db49-26e3-42ad-8f53-be6177d02917
+  description: As a certified Associate Cloud Engineer by Google, I bring a robust skill set and in-depth knowledge to the realm of cloud engineering. Proficient in the Google Cloud Platform (GCP), I have demonstrated expertise in deploying, monitoring, and maintaining projects on GCP infrastructure.<br /> My certification attests to my ability to configure and manage cloud solutions, ensuring optimal performance and reliability. I possess a deep understanding of cloud architecture principles, allowing me to design scalable and efficient solutions tailored to business requirements. Trough the certification path, I have ehnaced skills in implementing cloud security best practices, safeguarding data and infrastructure. My proficiency extends to orchestrating seamless deployments, automating tasks, and leveraging key GCP services to enhance operational efficiency.<br /> This certification signifies my commitment to staying current with GCP technologies and best practices, contributing to my role as a skilled and reliable cloud engineer. It reflects my dedication to delivering impactful solutions in the dynamic and ever-evolving landscape of cloud computing.
+
+# GCP - Cloud Digital Leader
+- skill: GCP - Cloud Digital Leader
+  url: https://www.credential.net/f99a42d3-f73e-482a-9243-9d9095648462
+  description: As a certified Cloud Digital Leader by Google, I have honed a comprehensive skill set and deep knowledge in driving cloud initiatives that align with strategic business goals. My expertise encompasses crafting and implementing cloud strategies, optimizing costs through a profound understanding of cloud economics, and ensuring robust security and compliance measures in cloud environments. I excel in orchestrating seamless cloud migrations, managing and optimizing cloud infrastructure for peak performance, and fostering collaboration across teams. My certification underscores proficiency in Google Cloud Platform (GCP), where I've mastered key services and their application in real-world scenarios. In addition to cloud architecture and data analytics, I bring a keen understanding of machine learning and AI integration, enabling innovative solutions. My leadership extends to championing DevOps practices in the cloud, ensuring the adoption of best practices for efficient and scalable solutions. I am adept at designing and managing cloud network architectures, contributing to a holistic approach in cloud operations.<br /> Earning the Cloud Digital Leader certification reflects my commitment to staying at the forefront of cloud technology trends, contributing to a culture of innovation and excellence.
+
+# summary of GCP certifications
+-
 # AZ-104 - Microsoft Azure Administrator
 - skill: AZ-104T00 - Microsoft Azure Administrator
   description: Learned how to manage Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor solutions.
-  
+
 # AZ-204 - Developing Solutions for Microsoft Azure
 - skill: AZ-204 - Developing Solutions for Microsoft Azure
   description: Learned how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure solutions by using KeyVault and Managed Identities. Also learned how to connect to and consume Azure services and third-party services, and include events and message-based models.

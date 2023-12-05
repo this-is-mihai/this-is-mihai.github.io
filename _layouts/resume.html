@@ -63,7 +63,7 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h3 class="resume-item-title" itemprop="name">{% if job.url %}<a href="{{ job.url }}">{{ job.company }}</a>{% else %}{{ job.company}}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
@@ -127,11 +127,13 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Training</h2>
+          <h2>Certifications and trainings</h2>
         </header>
         {% for skill in site.data.skills %}
+        <!-- <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3> -->
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <!-- <h4 class="resume-item-details" itemprop="name">{{ skill.skill }}</h4> -->
+          <h4 class="resume-item-details" itemprop="name">{% if skill.url %}<a href="{{ skill.url }}">{{ skill.skill }}</a>{% else %}{{ skill.skill}}{% endif %}</h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
@@ -238,7 +240,7 @@
 
       <footer class="page-footer">
         <p class="footer-line">Thanks!</p>
-        <p class="footer-line">Mihai Grigore - 2022</p>
+        <p class="footer-line">Mihai Grigore - 2023</p>
       </footer>
 
     </div>
